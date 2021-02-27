@@ -5,4 +5,4 @@ Simple script that hits a weather api and checks if it is raining. If it is, sen
 
 ## Technology
 * OpenWeatherMap API
-* MessageBird SMS
+* Telegram Bot (@weather18_bot)
